@@ -16,3 +16,6 @@ Hashing Strings, converts a String to an integer by using polynomial, the englis
 code 05:
 BinaryTree, Binary Search Tree (BST), implements methods such as: insert, print, find, remove and so on.
 
+code 06:
+Iterable<> interface, implements iterator by using generics, junit, ArrayList. junit for testing.
+
