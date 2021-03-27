@@ -10,4 +10,8 @@ BucketSort, an intro to Java Interfaces, Object-Oriented design, generics, bucke
 code 03:
 search mazes by using Queues & Stacks, a maze solver, 10 maze files are provided, maze1.txt to maze10.txt. 
 
+code 04:
+Hashing Strings, converts a String to an integer by using polynomial, the english_word file contains 300k words.
+
+
 
