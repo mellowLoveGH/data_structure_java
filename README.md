@@ -23,5 +23,6 @@ code 07:
 efficiency of different data structures, by testing the runtime of some String operations (.add() .contains() .remove()).
 data structures: LowerCaseTrie (it is like 26-ary tree, or set), LinkedList, HashSet & SkipList.
 
-
+code 08:
+graph, use HashMap to simulate the social links and suggest freinds. Edge means links, vertex is person.
 
