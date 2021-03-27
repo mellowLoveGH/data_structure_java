@@ -13,5 +13,6 @@ search mazes by using Queues & Stacks, a maze solver, 10 maze files are provided
 code 04:
 Hashing Strings, converts a String to an integer by using polynomial, the english_word file contains 300k words.
 
-
+code 05:
+BinaryTree, Binary Search Tree (BST), implements methods such as: insert, print, find, remove and so on.
 
