@@ -19,3 +19,9 @@ BinaryTree, Binary Search Tree (BST), implements methods such as: insert, print,
 code 06:
 Iterable<> interface, implements iterator by using generics, junit, ArrayList. junit for testing.
 
+code 07:
+efficiency of different data structures, by testing the runtime of some String operations (.add() .contains() .remove()).
+data structures: LowerCaseTrie (it is like 26-ary tree, or set), LinkedList, HashSet & SkipList.
+
+
+
